@@ -1,0 +1,1 @@
+Permissions-Policy: accelerometer=(), ambient-light-sensor=(), autoplay=(), bluetooth=(), camera=(), compute-pressure=(), display-capture=(), document-domain=(), encrypted-media=(), gamepad=(), gyroscope=(), hid=(), magnetometer=(), midi=(), picture-in-picture=(), screen-wake-lock=(), serial=(), speaker-selection=(), usb=(), xr-spatial-tracking=()
